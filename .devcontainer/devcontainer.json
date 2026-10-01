@@ -1,4 +1,4 @@
-{
-  "name": "Debian 11",
-  "image": "mcr.microsoft.com/devcontainers/base:bullseye"
+{ 
+  "name": "Debian 12", 
+  "image": "://microsoft.com" 
 }
